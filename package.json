@@ -12,8 +12,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.24.5",
-    "run-script-os": "^1.0.3",
-    "axios": ">=0.18.1"
+    "axios": ">=0.18.1",
+    "browser-sync": "^2.26.7",
+    "run-script-os": "^1.0.3"
   }
 }
